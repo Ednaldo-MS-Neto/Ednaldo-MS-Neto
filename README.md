@@ -9,7 +9,7 @@
 	 	  	  
 ### Um pouco sobre mim...  <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="80"> 
 
-    UFPB student, excited about artificial intelligence
+    Estudante da UFPB, bastante empolgado quando o assunto é Inteligência artificial
 
   
 ###  ⚙️ Some Tool and Tech I use:     
@@ -49,7 +49,7 @@
   <div align="leaft">
 
   
- ## 📫 Redes Sociais😁
+ ## 📫 Meus contatos 😁
  <img src="https://cdn.discordapp.com/attachments/567172861509369877/985468034619699260/giphy.gif" width="150"> 
 
 
